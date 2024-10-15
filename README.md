@@ -28,7 +28,7 @@ Image data which is obtained from video or webcam will be processed by pose dete
 - Then open http://localhost:8080 to see your app.
 
 ## Generate Your Own Workout
-1) Open app locally or visit [aiworkout.live](https://aiworkout.live/)
+1) Open app locally 
 2) Collect dataset (keypoints):  
     - Using webcam (open settings menu => turn on `Developer Mode` => click `Record Keypoints` button then click again when finish recording)  
     **Note:** (1) The app only records keypoints while its playing and the result will be csv format; (2) The value of each keypoint always in resolution 640x360 (when use webcam only).
